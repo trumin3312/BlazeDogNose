@@ -1,2 +1,2 @@
 # BlazeDogNose
-![visualization](https://github.com/trumin3312/BlazeDogFace/assets/102565074/08e74621-55e0-4a3a-848c-32c7ffff62fa)
+![visualization](https://github.com/trumin3312/BlazeDogNose/assets/102565074/a4ba998c-db7d-4c6c-84e3-54f7b85ad00d)
